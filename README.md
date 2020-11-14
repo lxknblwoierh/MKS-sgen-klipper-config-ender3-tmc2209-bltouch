@@ -5,7 +5,7 @@ Config for klipper for mks sgen
 ##
 ##  - SKR V1.3 board
 ##  - stock steppers
-##  - TMC2208 drivers in UART mode
+##  - TMC2209 drivers in UART mode
 ##  - glass bed
 ##  - BLTouch V3
 ##  - Ender3 stock display
