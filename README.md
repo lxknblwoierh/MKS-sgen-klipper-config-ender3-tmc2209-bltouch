@@ -1,5 +1,5 @@
 # MKS-sgen-klipper-config
-Config for klipper for mks sgen
+Klipper config for mks sgen, ender3 and bltouch
 ```
 #### custom Ender 3 build
 ##
