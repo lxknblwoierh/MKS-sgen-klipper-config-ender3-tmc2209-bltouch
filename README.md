@@ -3,7 +3,7 @@ Config for klipper for mks sgen
 ```
 #### custom Ender 3 build
 ##
-##  - SKR V1.3 board
+##  - MKS S_GEN
 ##  - stock steppers
 ##  - TMC2209 drivers in UART mode
 ##  - glass bed
