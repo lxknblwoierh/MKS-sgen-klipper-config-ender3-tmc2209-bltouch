@@ -1,4 +1,4 @@
-# MKS-sgen-klipper-config
+# MKS-sgen-klipper-config-ender3-bltouch-tmc2209
 Klipper config for mks sgen, ender3 and bltouch and tmc2209
 ```
 #### custom Ender 3 build
